@@ -1,0 +1,14 @@
+pynput==1.7.6
+python-telegram-bot==13.7
+Pillow==9.5.0
+psutil==5.9.5
+pywin32==305
+python-telegram-bot[job-queue]==20.7
+keyboard==0.13.5
+pyperclip==1.8.2
+requests==2.31.0
+pyautogui==0.9.54
+opencv-python==4.8.1.78
+numpy==1.24.3
+sounddevice==0.4.6
+soundfile==0.12.1 

