@@ -1,4 +1,4 @@
-# Remote Acces Telegram_RAT
+# Remote Acces TelegramRAT
 Remote Desktop Acces Telegram
 
 Program sadece eğitim amaçlı yazılmış olup farklı dallarda kullanılmasında sorumluluk taşımam
