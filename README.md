@@ -3,7 +3,7 @@ Remote Desktop Acces Telegram
 
 Program sadece eğitim amaçlı yazılmış olup farklı dallarda kullanılmasında sorumluluk taşımam
 Bir çeşit bağlantıyı telegram apileri üzerinden yürüten bir RAT scripti
-discord: syeforseton
+discord: forseton
 
  Kullanılabilir Komutlar:
                 /sysinfo - Sistem bilgilerini göster
